@@ -49,7 +49,4 @@ document.addEventListener('DOMContentLoaded', function() {
             addTask();
         }
     });
-
-    // Call the addTask function when the DOM is fully loaded (if needed)
-    addTask();
 });
